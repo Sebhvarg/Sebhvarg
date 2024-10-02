@@ -1,16 +1,25 @@
-## Hi there 👋
-
-<!--
-**Sebhvarg/Sebhvarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hola soy Sebastian!
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
+proyectos y mis intereses.
+## Contenido 
+* [Información personal](#información-personal)
+* [Proyectos](#proyectos)
+* * Aplicación Cliente - Servidor (Redes de datos) [Ir](https://github.com/Sebhvarg/AplicacionClienteServidor)
+* * App que aprixa valor de integral (Cálculo Vectorial) [Ir](https://github.com/Sebhvarg/IntegralAPK.git)
+* [Intereses](#intereses)
+## 👤Información personal
+* Nombre: Sebastian Holguin Vargas
+* Ocupación: Desarrollador/Diseñador.
+* Lugar de residencia: Guayaquil.
+* Sitio web: /
+## ✍️ Proyectos
+* Aplicación Cliente - Servidor (Redes de datos) [Ir](https://github.com/Sebhvarg/AplicacionClienteServidor)
+* App que aprixa valor de integral (Cálculo Vectorial) [Ir](https://github.com/Sebhvarg/IntegralAPK.git)
+## 🌐 Intereses
+* Html
+* Figma
+* Css
+* JavaScript
+* Python
+* Kotlin
+* Sql
