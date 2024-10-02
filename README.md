@@ -4,8 +4,6 @@ proyectos y mis intereses.
 ## Contenido 
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
-* * Aplicación Cliente - Servidor (Redes de datos) [Ir](https://github.com/Sebhvarg/AplicacionClienteServidor)
-* * App que aprixa valor de integral (Cálculo Vectorial) [Ir](https://github.com/Sebhvarg/IntegralAPK.git)
 * [Intereses](#intereses)
 ## 👤Información personal
 * Nombre: Sebastian Holguin Vargas
