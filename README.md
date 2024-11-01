@@ -25,10 +25,15 @@
 * [Skills](#intereses)
 
 ## 👤 Personal Information
-* Name: Sebastian Holguin Vargas
-* Job: Developer/Designer.
-* City: Guayaquil.
-* [WebSite](https://sebhvarg.github.io/curriculum/)
+<div id="personal-information">
+<ul>
+  <li><strong>Name:</strong> Sebastian Holguin Vargas</li>
+  <li><strong>Job:</strong> Developer/Designer</li>
+  <li><strong>City:</strong> Guayaquil</li>
+  <li><a href="https://sebhvarg.github.io/curriculum/">Website</a></li>
+</ul>
+
+</div>
 
 ## ✍️ Projects
 * Client-Server Application (Data Networks) [View](https://github.com/Sebhvarg/AplicacionClienteServidor)
@@ -75,3 +80,8 @@
 [![](https://github-readme-stats.vercel.app/api?username=sebhvarg&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Sebhvarg)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=sebhvarg&theme=material-palenight)](https://github.com/Elanza-48)
 </div>
+
+## Contact Me
+<a href="https://www.linkedin.com/in/sebastian-holg16/" target ="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
+</a>
