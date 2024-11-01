@@ -4,24 +4,34 @@
   
 </h2>
 
+<div >
+  <img align="right" src="https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif" width="200px" height="auto">
+  <p align="left">
+    🧑‍💻 I'm a passionate developer and graphic designer focused on web development, UI/UX, and graphic design. Currently, I'm studying Computer Science at Escuela Superior Politécnica del Litoral, 
+    where I'm constantly learning about the latest in technology and innovation.
+     
+  </p>
+  <p align= "left">
+    💡 I'm a creative individual with a strong drive to learn and evolve in the tech world. My journey led me to create my personal brand, Sebvart, in 2020. Sebvart specializes in graphic design, 
+    web development, and digital content creation, combining my love for design and coding to deliver visually compelling and user-focused digital solutions.
+  </p>
+  
+  
+</div>
 
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
-<img align="right" src="https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif" width="400px" height="auuto">
-<br />
-## Contenido 
-* [Información personal](#información-personal)
+## Content 
+* [Personal Information](#personal-information)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
-## 👤Información personal
-* Nombre: Sebastian Holguin Vargas
-* Ocupación: Desarrollador/Diseñador.
-* Lugar de residencia: Guayaquil.
-* Sitio web: /
-## ✍️ Proyectos
-* Aplicación Cliente - Servidor (Redes de datos) [Ir](https://github.com/Sebhvarg/AplicacionClienteServidor)
-* App que aprixa valor de integral (Cálculo Vectorial) [Ir](https://github.com/Sebhvarg/IntegralAPK.git)
-## 🌐 Intereses
+## 👤 Personal Information
+* Name: Sebastian Holguin Vargas
+* Job: Developer/Designer.
+* City: Guayaquil.
+* [WebSite](https://sebhvarg.github.io/curriculum/)
+## ✍️ Projects
+* Client-Server Application (Data Networks) [View](https://github.com/Sebhvarg/AplicacionClienteServidor)
+* App that approximates the value of an integral (Vector Calculus)  [View](https://github.com/Sebhvarg/IntegralAPK.git)
+## 🌐 Skills
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" height="25px"> Programming
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
