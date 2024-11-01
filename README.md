@@ -21,13 +21,15 @@
 
 ## Content 
 * [Personal Information](#personal-information)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
+* [Projects](#proyectos)
+* [Skills](#intereses)
+
 ## 👤 Personal Information
 * Name: Sebastian Holguin Vargas
 * Job: Developer/Designer.
 * City: Guayaquil.
 * [WebSite](https://sebhvarg.github.io/curriculum/)
+
 ## ✍️ Projects
 * Client-Server Application (Data Networks) [View](https://github.com/Sebhvarg/AplicacionClienteServidor)
 * App that approximates the value of an integral (Vector Calculus)  [View](https://github.com/Sebhvarg/IntegralAPK.git)
