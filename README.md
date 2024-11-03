@@ -80,7 +80,7 @@
 <div align="center">
 
 [![](https://github-readme-stats.vercel.app/api?username=sebhvarg&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Sebhvarg)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=sebhvarg&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=sebhvarg&theme=material-palenight)](https://github.com/Sebhvarg)
 </div>
 
 ## Contact Me
