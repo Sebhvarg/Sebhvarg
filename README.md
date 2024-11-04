@@ -36,8 +36,21 @@
 </div>
 
 ## ✍️ Projects
-* Client-Server Application (Data Networks) [View](https://github.com/Sebhvarg/AplicacionClienteServidor)
-* App that approximates the value of an integral (Vector Calculus)  [View](https://github.com/Sebhvarg/IntegralAPK.git)
+
+<div id="proyectos">
+<ul>
+  <li>
+    Client-Server Application (Data Networks) 
+    <a href="https://github.com/Sebhvarg/AplicacionClienteServidor" target="_blank">View</a>
+  </li>
+  <li>
+    App that approximates the value of an integral (Vector Calculus) 
+    <a href="https://github.com/Sebhvarg/IntegralAPK.git" target="_blank">View</a>
+  </li>
+</ul>
+
+</div>
+
 ## 🌐 Skills
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" height="25px"> Programming
 #### Languages
