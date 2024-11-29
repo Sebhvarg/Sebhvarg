@@ -22,7 +22,7 @@
 ## Content 
 * [Personal Information](#personal-information)
 * [Projects](#proyectos)
-* [Skills](#intereses)
+* [Skills](#skills)
 
 ## 👤 Personal Information
 <div id="personal-information">
@@ -43,17 +43,35 @@
     Client-Server Application (Data Networks) 
     <a href="https://github.com/Sebhvarg/AplicacionClienteServidor" target="_blank">View</a>
   </li>
+  - Html, JavaScript & NodeJs
   <li>
     App that approximates the value of an integral (Vector Calculus) 
     <a href="https://github.com/Sebhvarg/IntegralAPK.git" target="_blank">View</a>
+    - Kotlin
+  </li>
+
+  <li>
+    Resume
+    <a href="https://sebhvarg.github.io/curriculum/" target="_blank">Visit</a>
+    - HTML & CSS
+  </li>
+    <li>
+    Landing Page (WrestleTrip)
+    <a href="https://sebhvarg.github.io/landing/" target="_blank">Visit</a>
+    - HTML, Bootstrap & Javascript
   </li>
 </ul>
 
 </div>
 
+
 ## 🌐 Skills
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" height="25px"> Programming
 #### Languages
+<div id="skills">
+  
+</div>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
