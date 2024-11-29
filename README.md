@@ -49,6 +49,11 @@
     <a href="https://github.com/Sebhvarg/IntegralAPK.git" target="_blank">View</a>
     - Kotlin
   </li>
+  <li>
+    Football Club - Database
+    <a href="https://github.com/Sebhvarg/ClubFutbol" target="_blank">View</a>
+    - Java, SQL
+  </li>
 
   <li>
     Resume
@@ -107,12 +112,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-## Stats
-<div align="center">
-
-[![](https://github-readme-stats.vercel.app/api?username=sebhvarg&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Sebhvarg)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=sebhvarg&theme=material-palenight)](https://github.com/Sebhvarg)
-</div>
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/sebastian-holg16/" target ="_blank">
