@@ -42,15 +42,16 @@
   <li>
     Client-Server Application (Data Networks) 
     <a href="https://github.com/Sebhvarg/AplicacionClienteServidor" target="_blank">View</a>
+    - Html, JavaScript & NodeJs
   </li>
-  - Html, JavaScript & NodeJs
+  
   <li>
     App that approximates the value of an integral (Vector Calculus) 
     <a href="https://github.com/Sebhvarg/IntegralAPK.git" target="_blank">View</a>
     - Kotlin
   </li>
   <li>
-    Football Club - Database
+    Football Club (DataBase)
     <a href="https://github.com/Sebhvarg/ClubFutbol" target="_blank">View</a>
     - Java, SQL
   </li>
