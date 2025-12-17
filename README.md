@@ -7,12 +7,12 @@
 <div >
   <img align="right" src="https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif" width="200px" height="auto">
   <p align="left">
-    🧑‍💻 I'm a passionate developer and graphic designer focused on web development, UI/UX, and graphic design. Currently, I'm studying Computer Science at Escuela Superior Politécnica del Litoral, 
+    I'm a passionate developer and graphic designer focused on web development, UI/UX, and graphic design. Currently, I'm studying Computer Science at Escuela Superior Politécnica del Litoral, 
     where I'm constantly learning about the latest in technology and innovation.
      
   </p>
   <p align= "left">
-    💡 I'm a creative individual with a strong drive to learn and evolve in the tech world. My journey led me to create my personal brand, Sebvart, in 2020. Sebvart specializes in graphic design, 
+    I'm a creative individual with a strong drive to learn and evolve in the tech world. My journey led me to create my personal brand, Sebvart, in 2020. Sebvart specializes in graphic design, 
     web development, and digital content creation, combining my love for design and coding to deliver visually compelling and user-focused digital solutions.
   </p>
   
@@ -24,7 +24,7 @@
 * [Projects](#proyectos)
 * [Skills](#skills)
 
-## 👤 Personal Information
+## Personal Information
 <div id="personal-information">
 <ul>
   <li><strong>Name:</strong> Sebastian Holguin Vargas</li>
@@ -35,7 +35,7 @@
 
 </div>
 
-## ✍️ Projects
+## Projects
 
 <div id="proyectos">
 <ul>
@@ -71,8 +71,7 @@
 </div>
 
 
-## 🌐 Skills
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" height="25px"> Programming
+## Skills
 #### Languages
 <div id="skills">
   
@@ -85,20 +84,33 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
+![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=for-the-badge)
 #### Frameworks
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
+![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge)
+![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
 #### Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
 #### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+<br/>
+
+#### IA
+![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=for-the-badge)
+![Claude Badge](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=for-the-badge)
+![GitHub Copilot Badge](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge)
+
 
 #### IDEs
 
@@ -107,12 +119,22 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-<br />
+![Cursor Badge](https://img.shields.io/badge/Cursor-000?logo=cursor&logoColor=fff&style=for-the-badge)
+![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=for-the-badge)
 
-### <img src="https://media.tenor.com/OcX8ZUgXRHEAAAAi/paint-brush-inanimate-insanity.gif" width="25px" height="auto">  Design
+### Software Engineering
+![Solid Badge](https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff&style=for-the-badge)
+
+<br/>
+
+### Design
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<br/>
+
+### Video
+![DaVinci Resolve Badge](https://img.shields.io/badge/DaVinci%20Resolve-233A51?logo=davinciresolve&logoColor=fff&style=for-the-badge)
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/sebastian-holg16/" target ="_blank">
